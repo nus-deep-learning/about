@@ -2,15 +2,14 @@
 
 ## Group Members
 - [Ritchie Ng](https://github.com/ritchieng)
-	- NExT (NUS-Tsinghua Extreme Search Center), a leading research centre jointly established by the National University of Singapore (NUS) and Tsinghua University of China, funded by IDMPO (Interactive Digital Multimedia Program Office) under MDA (Media Development Authority)
-	- Under the supervision of [Tat-seng Chua](http://www.comp.nus.edu.sg/~chuats/)
+	- Under the supervision of [Tat-seng Chua](http://www.comp.nus.edu.sg/~chuats/) at NExT, NUS*
 - [Jie Fu](https://github.com/bigaidream)
-	- NExT (NUS-Tsinghua Extreme Search Center)
-	- Under the supervision of [Tat-seng Chua](http://www.comp.nus.edu.sg/~chuats/)
+	- Under the supervision of [Tat-seng Chua](http://www.comp.nus.edu.sg/~chuats/) at NExT, NUS
+	- Incoming Institute for Data Valorisation (IVADO) postdoctoral fellow under the supervision of [Christopher Pal](http://www.professeurs.polymtl.ca/christopher.pal/) at École Polytechnique de Montréal
 - [Ilija Ilievski](https://github.com/ilija139)
 	- Under the supervision of [Jiashi Feng](https://sites.google.com/site/jshfeng/) and [Shuicheng Yan](https://www.ece.nus.edu.sg/stfpage/eleyans/tat)
 
-_And more coming!_
+_*NExT (NUS-Tsinghua Extreme Search Center) is a leading research centre jointly established by the National University of Singapore (NUS) and Tsinghua University of China, funded by IDMPO (Interactive Digital Multimedia Program Office) under MDA (Media Development Authority)_
 
 ## Upcoming Talks
 - Scalable Hyperparameter Optimization
@@ -39,3 +38,4 @@ For group members, feel free to push any updates regarding our new members, talk
 
 ## Joining NUS Deep Learning Group
 Feel free to raise an issue to join our group. We are open to current students (undergraduate and postgraduate), postdoctoral fellows, professors and any alumni (っ◔‿◔)っ
+
