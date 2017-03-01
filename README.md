@@ -5,7 +5,6 @@
 	- Under the supervision of [Tat-seng Chua](http://www.comp.nus.edu.sg/~chuats/) at NExT, NUS*
 - [Jie Fu](https://github.com/bigaidream)
 	- Under the supervision of [Tat-seng Chua](http://www.comp.nus.edu.sg/~chuats/) at NExT, NUS
-	- Incoming Institute for Data Valorisation (IVADO) postdoctoral fellow under the supervision of [Christopher Pal](http://www.professeurs.polymtl.ca/christopher.pal/) at École Polytechnique de Montréal
 - [Ilija Ilievski](https://github.com/ilija139)
 	- Under the supervision of [Jiashi Feng](https://sites.google.com/site/jshfeng/) and [Shuicheng Yan](https://www.ece.nus.edu.sg/stfpage/eleyans/tat)
 
