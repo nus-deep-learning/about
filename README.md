@@ -6,7 +6,7 @@
 - [Jie Fu](https://github.com/bigaidream)
 	- Under the supervision of [Tat-seng Chua](http://www.comp.nus.edu.sg/~chuats/) at NExT, NUS
 - [Ilija Ilievski](https://github.com/ilija139)
-	- Under the supervision of [Jiashi Feng](https://sites.google.com/site/jshfeng/) and [Shuicheng Yan](https://www.ece.nus.edu.sg/stfpage/eleyans/tat)
+	- Under the supervision of [Jiashi Feng](https://sites.google.com/site/jshfeng/) and [Shuicheng Yan](https://www.ece.nus.edu.sg/stfpage/eleyans/)
 
 _*NExT (NUS-Tsinghua Extreme Search Center) is a leading research centre jointly established by the National University of Singapore (NUS) and Tsinghua University of China, funded by IDMPO (Interactive Digital Multimedia Program Office) under MDA (Media Development Authority)_
 
@@ -14,7 +14,7 @@ _*NExT (NUS-Tsinghua Extreme Search Center) is a leading research centre jointly
 - Scalable Hyperparameter Optimization
 	- Speaker: Ritchie Ng
 	- Event: [REWORK Deep Learning Summit](https://www.re-work.co/events/deep-learning-summit-singapore-april-2017)
-- Deep Learning Solutions to Problems in Quantitative Finance
+- Deep Reinforcement Learning for Optimal Order Placement in a Limit Order Book
 	- Speaker: Ilija Ilievski
 	- Event: [REWORK Deep Learning Finance Summit Singapore](https://www.re-work.co/events/deep-learning-in-finance-summit-singapore-2017)
 
