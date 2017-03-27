@@ -27,11 +27,19 @@ _*NExT (NUS-Tsinghua Extreme Search Center) is a leading research centre jointly
 	- Authors: Jie Fu, Hongyin Luo, Jiashi Feng, Kian Hsiang Low, Tat-Seng Chua
 	- Proceedings of IJCAI 2016
 
-## Latest Projects
+## Useful Tools
 - [The Incredible PyTorch](https://github.com/ritchieng/the-incredible-pytorch)
 	-  A curated list of tutorials, papers, projects, communities and more relating to PyTorch.
+		- Creator: [Ritchie Ng](https://github.com/ritchieng)
 - [TFAMI](https://github.com/ritchieng/tensorflow-aws-ami)
 	- An Amazon Web Service (AWS) AMI that is open, free and works. Run TensorFlow or PyTorch in less than 5 minutes. TensorFlow, Keras, TensorLayer, PyTorch and all dependencies.
+		- Creator: [Ritchie Ng](https://github.com/ritchieng)
+
+## Implementations
+- [Residual Networks, TensorFlow](https://github.com/ritchieng/resnet-tensorflow)
+	- Creator: [Ritchie Ng](https://github.com/ritchieng)
+- [Wide Residual Networks, TensorLayer](https://github.com/ritchieng/wideresnet-tensorlayer)
+	- Creator: [Ritchie Ng](https://github.com/ritchieng)
 
 ## Adding Any Updates
 For group members, feel free to push any updates regarding our new members, talks, papers and projects.
