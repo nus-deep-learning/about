@@ -8,6 +8,11 @@ This is a group where all NUS deep learning researchers and enthusiasts gather.
 	- Under the supervision of [Tat-seng Chua](http://www.comp.nus.edu.sg/~chuats/) at NExT, NUS
 - [Ilija Ilievski](https://github.com/ilija139)
 	- Under the supervision of [Jiashi Feng](https://sites.google.com/site/jshfeng/) and [Shuicheng Yan](https://www.ece.nus.edu.sg/stfpage/eleyans/)
+- [He Xiangnan](http://www.comp.nus.edu.sg/~xiangnan/)
+	- Research Fellow with [Tat-seng Chua](http://www.comp.nus.edu.sg/~chuats/)
+	- Previously at Google Research and Microsoft. 
+- [Alexandre Thiery](http://www.normalesup.org/~athiery/)
+	- Assistant Professor, Probability and Applied Statistics NUS
 
 _*NExT (NUS-Tsinghua Extreme Search Center) is a leading research centre jointly established by the National University of Singapore (NUS) and Tsinghua University of China, funded by IDMPO (Interactive Digital Multimedia Program Office) under MDA (Media Development Authority)_
 
