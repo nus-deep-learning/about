@@ -1,5 +1,5 @@
 # NUS Deep Learning Group
-This is a group where all NUS deep learning researchers and enthusiasts gather. You can share our page [here](https://nus-deep-learning.github.io/about/).
+This is a group where all NUS deep learning researchers gather. You can share our page [here](https://nus-deep-learning.github.io/about/).
 
 ## Group Members
 - [Ritchie Ng](https://github.com/ritchieng)
