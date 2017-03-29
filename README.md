@@ -39,6 +39,9 @@ _*NExT (NUS-Tsinghua Extreme Search Center) is a leading research centre jointly
 - [TFAMI](https://github.com/ritchieng/tensorflow-aws-ami)
 	- An Amazon Web Service (AWS) AMI that is open, free and works. Run TensorFlow or PyTorch in less than 5 minutes. TensorFlow, Keras, TensorLayer, PyTorch and all dependencies.
 		- Creator: [Ritchie Ng](https://github.com/ritchieng)
+- [Gloqo](https://www.gloqo.com/)
+	- Search for code for deep learning and machine learning research papers on arXiv, OpenReview and others.
+		- Creator: [Ritchie Ng](https://github.com/ritchieng)		
 
 ## Implementations
 - [Residual Networks, TensorFlow](https://github.com/ritchieng/resnet-tensorflow)
