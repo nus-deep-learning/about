@@ -17,6 +17,11 @@ This is a group where all NUS deep learning researchers gather. You can share ou
 _*NExT (NUS-Tsinghua Extreme Search Center) is a leading research centre jointly established by the National University of Singapore (NUS) and Tsinghua University of China, funded by IDMPO (Interactive Digital Multimedia Program Office) under MDA (Media Development Authority)_
 
 ## Upcoming Talks
+- [Deep Learning for Self-Driving Cars and Medical Diagnostics](https://goo.gl/PLCU23)
+	- Speaker: [Marek Bardoński](https://www.linkedin.com/in/marek-bardo%25C5%2584ski-34290a57/), Senior Deep Learning Research Engineer, NVIDIA Switzerland
+	- Host: Ritchie Ng
+
+## Past Talks
 - Efficient Hyperparameter Optimization
 	- Speaker: Ritchie Ng
 	- Event: [REWORK Deep Learning Summit](https://www.re-work.co/events/deep-learning-summit-singapore-april-2017)
@@ -36,8 +41,8 @@ _*NExT (NUS-Tsinghua Extreme Search Center) is a leading research centre jointly
 - [The Incredible PyTorch](https://github.com/ritchieng/the-incredible-pytorch)
 	-  A curated list of tutorials, papers, projects, communities and more relating to PyTorch.
 		- Creator: [Ritchie Ng](https://github.com/ritchieng)
-- [TFAMI](https://github.com/ritchieng/tensorflow-aws-ami)
-	- An Amazon Web Service (AWS) AMI that is open, free and works. Run TensorFlow or PyTorch in less than 5 minutes. TensorFlow, Keras, TensorLayer, PyTorch and all dependencies.
+- [DLAMI](https://github.com/ritchieng/dlami)
+	- A Deep Learning Amazon Web Service (AWS) AMI that is open, free and works. Run in less than 5 minutes. TensorFlow, Keras, PyTorch, Theano, MXNet, CNTK, Caffe and all dependencies.
 		- Creator: [Ritchie Ng](https://github.com/ritchieng)
 - [Gloqo](https://www.gloqo.com/)
 	- Search for code for deep learning and machine learning research papers on arXiv, OpenReview and others.
