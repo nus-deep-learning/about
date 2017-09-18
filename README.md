@@ -22,10 +22,10 @@ _*NExT (NUS-Tsinghua Extreme Search Center) is a leading research centre jointly
 	- Host: Ritchie Ng
 
 - [Efficient Hyperparameter Optimization of Deep Learning Algorithms Using Deterministic RBF Surrogates](https://github.com/ilija139/HORD)
-   -[Ilija Ilievski](https://github.com/ilija139) at [NVIDIA AI-Conference] (https://www.nvidia.com/en-sg/ai-conference/)
+	- Speaker: Ilija Ilievski at [NVIDIA AI-Conference](https://www.nvidia.com/en-sg/ai-conference/)
 
 - [Deep Reinforcement Learning for Optimal Order Placement in a Limit Order Book](https://bitly.com/sg-139)
-   -[Ilija Ilievski](https://github.com/ilija139) at [QuantCon] (https://quantconsingapore2017.splashthat.com/)
+	- Speaker: Ilija Ilievski at [QuantCon](https://quantconsingapore2017.splashthat.com/)
    
 
 ## Past Talks
