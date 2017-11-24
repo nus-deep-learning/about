@@ -73,6 +73,9 @@ _Pending_
 - [Wide Residual Networks, TensorLayer](https://github.com/ritchieng/wideresnet-tensorlayer)
 	- Creator: [Ritchie Ng](https://github.com/ritchieng)
 
+## Courses
+
+Please see the [Courses](Courses.md) page for listings of NUS related courses and alumni of those courses.
 ## Adding Any Updates
 For group members, feel free to push any updates regarding our new members, talks, papers and projects.
 
