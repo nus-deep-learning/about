@@ -21,8 +21,6 @@ This is a group where all NUS deep learning researchers gather. You can share ou
 	- WING NUS
 - [Kan Min-Yen](http://www.comp.nus.edu.sg/~kanmy/)
 	- WING NUS
-- [Jie Fu](https://github.com/bigaidream)
-	- Formerly NExT NUS, currently IVADO under Christopher Pal 
 
 ## Upcoming Talks
 _Pending_
